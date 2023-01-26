@@ -1,0 +1,8 @@
+.header {
+  display: flex;
+  background-image: linear-gradient(to left, pink, purple, red);
+}
+
+.headerImage {
+  width: 300px;
+}
